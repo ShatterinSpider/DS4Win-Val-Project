@@ -8,6 +8,7 @@ Valorant with a mouse of 800 DPI roughly I had the settings of
 
 I managed to figure out how to get my controller sensivity to feel consistent like playing with a mouse of 800 DPI, slowly adding acceleration thats manageable to emulate the full arm movement into a single joystick.
 Controller Settings ranged from
+
 Beta 3
 .363
 .875
