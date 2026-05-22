@@ -1,10 +1,14 @@
 # DS4Win-Val-Project
 This is a small project I've been working on for the past.. 2ish years? It started out because I didn't want to buy ReWASD, and use DS4 Windows instead to play valorant with my controller. After testing, and perfecting my profiles I figured out how to essentially match my controller and mouse gameplay. 
 
-Current Profile - Precision X6
-.366
-.96
-.85.8
+Current Profile - Prec X7 or X7G (G for Gyro)
+.365
+.968
+.858
+
+Changes - Slight Curve Adjustment allows a lower deadzone to have similar but more accurate movements without Input Fuzz. Input Fuzz issue was pixel skipping causing aiming to over or under shoot in certain distances. 
+Added Gyro Settings from @IDKWhatApexIs (Valo Gyro Server), mixes pretty well with X7 actually, not perfect mix but good enough for tests. 
+Deadzone lowered from .05 to .02, if drift is too much of an issue I reccomend .03-.04 deadzone, with either increrasing or decreasing anti deadzone accordingly. May need to adjust last curve value to .89 or .9 instead of .88. 
 
 
 Valorant with a mouse of 800 DPI roughly I had the settings of
@@ -14,16 +18,20 @@ Valorant with a mouse of 800 DPI roughly I had the settings of
 
 I managed to figure out how to get my controller sensivity to feel consistent like playing with a mouse of 800 DPI, slowly adding acceleration thats manageable to emulate the full arm movement into a single joystick.
 Controller Settings ranged from
-
-Beta 3
-.363
-.875
-.85
+Precision X6
+.366
+.96
+.85.8
 
 Phantom and Up
 .361 - .36
 .875, .88-.89, .9 - .95
 .873
+
+Beta 3
+.363
+.875
+.85
 
 I left the values loose here, ADS required a lot of change due to me straying away from Mouse Mimicry to turning the Profile back into ones more suited for actual controller playstyles. 
 
