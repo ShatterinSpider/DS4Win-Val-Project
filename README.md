@@ -1,6 +1,13 @@
 # DS4Win-Val-Project
 This is a small project I've been working on for the past.. 2ish years? It started out because I didn't want to buy ReWASD, and use DS4 Windows instead to play valorant with my controller. After testing, and perfecting my profiles I figured out how to essentially match my controller and mouse gameplay. 
 
+
+Valo Phantom Z Profile -
+This Profile is made for ZERO Deadzone Controllers with Hall Effect or TMR. Means you can put the deadzone all the way to 0 without drift. This has an adjusted DISABLED Gyro that works with the settings I made for it. It could be fine tuned more but haven't found anything better than these exact settings in the profile. It plays similar to Medium - Low cod controller settings, (7 horizontal, 5 vertical), 
+.36
+.956
+.858
+
 Current Profile - Prec X7 or X7G (G for Gyro) and Prec 7 Alt
 .365 - .366
 .968
