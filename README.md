@@ -3,7 +3,9 @@ This is a small project I've been working on for the past.. 2ish years? It start
 
 Project Ended?
 Got bored and fooled around w some numbers, little better than original Z, and have a 2nd version coming if it works out. Goal is to smooth out the rough movements and simplify the config to basically be 1 on 1 with a mouse while being able to be easily understood how to configure as if it was on console. No Delays or Off Sets
+
 VZ4 - .36 .95 .858
+
 Valo Prec Z1 - 
 .36
 .98.
