@@ -1,8 +1,13 @@
 # DS4Win-Val-Project
 This is a small project I've been working on for the past.. 2ish years? It started out because I didn't want to buy ReWASD, and use DS4 Windows instead to play valorant with my controller. After testing, and perfecting my profiles I figured out how to essentially match my controller and mouse gameplay. 
 
+IMPORTANT! - If your mouse ISN'T WORKING while playing with a controller its because of Memory Integrity being DISABLED! You MUST ENABLE IT in your bios: https://support.riotgames.com/en-us/riot/support-tools/enabling-memory-integrity
+Doing this stops Valorant from causing these specific issues while playing with a controller: Crashing or Freezing upon opening the game, input buffering mid game, crashing while alt tabbed. 
+
 Project Ended?
 Got bored and fooled around w some numbers, little better than original Z, and have a 2nd version coming if it works out. Goal is to smooth out the rough movements and simplify the config to basically be 1 on 1 with a mouse while being able to be easily understood how to configure as if it was on console. No Delays or Off Sets
+
+VL4 - .359. .954 .858
 
 VZ4 - .36 .95 .858
 
